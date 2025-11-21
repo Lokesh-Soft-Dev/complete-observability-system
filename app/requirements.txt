@@ -1,0 +1,9 @@
+﻿flask
+prometheus_client
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-exporter-jaeger
+opentelemetry-instrumentation-flask
+requests
+
+deprecated
