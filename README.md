@@ -145,7 +145,7 @@ Dashboard JSONs are stored in:
 ---
 ## 📄 Documentation:
 
-# observability_project_report_final.pdf
+observability_project_report_final.pdf
 
 https://github.com/Lokesh-Soft-Dev/complete-observability-system/blob/ed208fa4e24a7483577cbc73f25d0f18d0bd422e/observability_project_report.pdf
 
