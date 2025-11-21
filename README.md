@@ -152,19 +152,21 @@ https://github.com/Lokesh-Soft-Dev/complete-observability-system/blob/ed208fa4e2
 ---
 ## Screenshots are stored separately:
 
-/screenshots/
+/screenshots/ (Folder)
 
 ---
 ## 📚 Deliverables Included
-✔ docker-compose.yml
-✔ Python application code
-✔ Prometheus config
-✔ Loki config
-✔ Promtail config
-✔ Grafana dashboards
-✔ Architecture diagram
-✔ PDF report
-✔ Screenshots folder
+
+✔ docker-compose.yml<br>
+✔ Python application code<br>
+✔ Prometheus config<br>
+✔ Loki config<br>
+✔ Promtail config<br>
+✔ Grafana dashboards<br>
+✔ Architecture diagram<br>
+✔ PDF report<br>
+✔ Screenshots folder<br>
+
 ---
 ## 🏁 Conclusion
 
