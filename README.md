@@ -1,4 +1,4 @@
-# 📡 Complete Observability System – Metrics, Logs & Traces  
+## 📡 Complete Observability System – Metrics, Logs & Traces  
 ### **Using Prometheus • Grafana • Loki • Promtail • Jaeger • Docker Compose**
 
 ![Observability Banner](images/banner.png)
