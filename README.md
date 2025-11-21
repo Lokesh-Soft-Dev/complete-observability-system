@@ -1,7 +1,8 @@
 ## 📡 Complete Observability System – Metrics, Logs & Traces  
 ### **Using Prometheus • Grafana • Loki • Promtail • Jaeger • Docker Compose**
 
-![Observability Banner](images/banner.png)
+<img width="1536" height="1024" alt="Architecture Diagram (ASCII)" src="https://github.com/user-attachments/assets/debad095-54d7-4431-95c7-89c9d3415da7" />
+
 
 ---
 
