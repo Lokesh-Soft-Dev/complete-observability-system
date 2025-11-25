@@ -186,7 +186,7 @@ This project demonstrates how metrics, logs, and distributed traces can be combi
 ## THE SECOND PROJECT, <br>
 ## Project-Name : 
 - *"**devops-ci-cd-simple-app**,"* is completed. <br> 
-- All Details are in this **Repo-link** and the corresponding **link** are provided below...<br>
+- All Project Details(Screenshots,Scripts,ReportFile) are in this **Repo-link** and the corresponding **link** are provided below...<br>
 ## 🔗Link : https://github.com/Lokesh-Soft-Dev/devops-ci-cd-simple-app 
 
 ---
