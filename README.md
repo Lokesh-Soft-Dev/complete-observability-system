@@ -184,8 +184,6 @@ This project demonstrates how metrics, logs, and distributed traces can be combi
     - Expand microservices with more trace spans
 ---
 ## 👤 Author
-
 ## KANNAIAH LOKESH
 ## GitHub: https://github.com/Lokesh-Soft-Dev
-
 ---
