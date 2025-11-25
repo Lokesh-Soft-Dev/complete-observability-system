@@ -167,7 +167,6 @@ https://github.com/Lokesh-Soft-Dev/complete-observability-system/blob/ed208fa4e2
 ✔ Architecture diagram<br>
 ✔ PDF report<br>
 ✔ Screenshots folder<br>
-
 ---
 ## 🏁 Conclusion
 
@@ -183,7 +182,16 @@ This project demonstrates how metrics, logs, and distributed traces can be combi
     - Add SLO/SLI measurement dashboards
     - Expand microservices with more trace spans
 ---
+
+## THE SECOND PROJECT, <br>
+## Project-Name : 
+- *"**devops-ci-cd-simple-app**,"* is completed. <br> 
+- All Details are in this **Repo-link** and the corresponding **link** are provided below...<br>
+## 🔗Link : https://github.com/Lokesh-Soft-Dev/devops-ci-cd-simple-app 
+
+---
 ## 👤 Author
+
 ## KANNAIAH LOKESH
 ## GitHub: https://github.com/Lokesh-Soft-Dev
 ---
